@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>kolom Lastname diurutkan Ascending</description>
+   <name>Lastname ASC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b585b814-3e94-4fe9-8843-d165addc3fdb</testCaseGuid>
+</TestCaseEntity>

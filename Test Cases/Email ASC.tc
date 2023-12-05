@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>kolom Email diurutkan Ascending</description>
+   <name>Email ASC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ba6c9db-3e05-4dcb-840b-766da9c0bc6f</testCaseGuid>
+</TestCaseEntity>
